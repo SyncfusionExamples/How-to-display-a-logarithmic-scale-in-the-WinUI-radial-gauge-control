@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LogarithmicAxis (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LogarithmicAxis (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
