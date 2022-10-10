@@ -1,6 +1,6 @@
 # How to display a logarithmic scale in the WinUI radial gauge control
 
-This repository contains sample for how to add a logarithmic axis to the [Syncfusion WinUi Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) control.
+This repository contains sample to add a logarithmic axis to the [Syncfusion WinUI Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/13598/how-to-display-a-logarithmic-scale-in-the-winui-radial-gauge-control-sfradialgauge).
 
